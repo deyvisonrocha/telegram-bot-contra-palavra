@@ -1,0 +1,27 @@
+{
+  "name": "iconic-avaliacao-deyvison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/iconic-dev/avaliacao-deyvison.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/iconic-dev/avaliacao-deyvison/issues"
+  },
+  "homepage": "https://gitlab.com/iconic-dev/avaliacao-deyvison#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "botgram": "^2.2.0",
+    "mongoose": "^5.4.15"
+  }
+}
