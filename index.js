@@ -1,5 +1,5 @@
 const botgram = require('botgram')
-const bot = botgram('621661133:AAHke49kS59E3U6OLXvtSAHYz8L2QoVIw7Y')
+const bot = botgram('----')
 const mongoose = require('mongoose')
 
 mongoose.connect('mongodb://localhost:27017/iconic-test', {useNewUrlParser: true})
